@@ -10,7 +10,7 @@ After training both modified policies, I compared their TensorBoard graphs with 
 
 ![alt text](error_vel_xy.png)
 
-![alt text](succes_rate.png)
+![alt text](success_rate.png)
 
 ![alt text](episode_termination_base_contact.png)
 
