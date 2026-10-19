@@ -8,11 +8,11 @@ I also expected that training the modified policy for three times more iteration
 
 After training both modified policies, I compared their TensorBoard graphs with the original policy.
 
-![alt text](image-2.png)
+![alt text](error_vel_xy.png)
 
-![alt text](image-3.png)
+![alt text](succes_rate.png)
 
-![alt text](image-4.png)
+![alt text](episode_termination_base_contact.png)
 
 ### Velocity-tracking error (`error_vel_xy`)
 
